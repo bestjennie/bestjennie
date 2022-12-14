@@ -12,13 +12,20 @@ The dataset is sourced from Kaggle: the Movies Daily Update Dataset. It contains
 We conducted data cleansing to enhance analytic accuracy.
 
 #### Data analysis
-Through data analysis and visualization of TMDB movie data, we can discover popular trends, find investment directions, and provide specific reference suggestions for new entrants in this industry.  We will analyze:
+Through data analysis and visualization of TMDB movie data, we can discover popular trends, find investment directions, and provide specific reference suggestions for new entrants in this industry. We will analyze:
+
 The top 5 movies that make the most revenues 
+
 The top 5 movie production companies
+
 The top 5 movie genres
+
 Analysis of the most popular movie keywords
+
 The average movie rating in relation to the length of the movie
+
 The relationship between movie box office and movie duration
+
 Correlation of box office with other factors.
 
 ### Execution instruction:
